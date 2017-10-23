@@ -1,0 +1,6 @@
+// Settings in here override those in "${packages}/DocBlockr_with_update_capability/Doxy.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+    // Turn on logs in console.
+    "debug_enabled": true,
+}

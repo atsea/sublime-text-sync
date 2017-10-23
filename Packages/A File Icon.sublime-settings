@@ -1,0 +1,13 @@
+{
+  // A File Icon Preferences – User
+  // ================================================================
+
+  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  // ! PLEASE RESTART SUBLIME TEXT FOR THESE CHANGES TO TAKE EFFECT !
+  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+    // Set `true` to use icons provided by the package if your theme
+  // supports icon customization (icons provided by the theme will be
+  // used by default).
+  "force_mode": true,
+}

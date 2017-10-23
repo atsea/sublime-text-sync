@@ -1,0 +1,11 @@
+{
+// https://packagecontrol.io/packages/CSS3
+// If you have Emmet installed, its completions will drown out the 
+// carefully researched, standards-based completions offered by this 
+// package. You can disable Emmet completions by adding these two lines 
+// to your Emmet Package settings.
+
+"show_css_completions": false,
+"disable_tab_abbreviations_for_scopes": "source.css"
+
+}

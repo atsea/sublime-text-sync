@@ -1,0 +1,6 @@
+{
+    "exec_args": {
+      "path": "C:\\Program Files\\nodejs"
+    },
+    "gruntfile_paths": ["%APPDATA%\\Documents\\#test\\grunt"]
+}

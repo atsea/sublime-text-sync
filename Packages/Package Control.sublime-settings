@@ -1,0 +1,66 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Material Theme"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Agila Theme",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"Boxy Theme Addon - Widget Font Size",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorHighlighter",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"DocBlockr_with_update_capability",
+		"EditorConfig",
+		"Emmet",
+		"FileDiffs",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"GitSyntaxes",
+		"Markdown Extended",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Materialize-Appbar",
+		"Materialize-White-Panels",
+		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"PackagesUI",
+		"PHP Companion",
+		"PHP Constructors",
+		"PHP Getters and Setters",
+		"Pretty JSON",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"StyleToken",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-contrib-stylint",
+		"SublimeLinter-phpcs",
+		"Sublimerge 3",
+		"Syntax Highlighting for Sass",
+		"TrailingSpaces",
+		"Trimmer",
+		"View In Browser",
+		"Vue Syntax Highlight"
+	],
+	"repositories":
+	[
+		"https://github.com/Monnoroch/ColorHighlighter.git"
+	]
+}
