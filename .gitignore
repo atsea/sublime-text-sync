@@ -4,3 +4,7 @@
 !.gitignore
 !Preferences.sublime-settings
 !Package Control.sublime-settings
+
+*.sublime-project
+*.sublime-workspace
+oscrypto-ca-bundle.crt
