@@ -1,3 +1,0 @@
-[
-    { "keys": ["shift+f9"], "command": "goto_definition" }
-]
